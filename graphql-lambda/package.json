@@ -1,0 +1,22 @@
+{
+    "name": "graphql-lambda",
+    "version": "1.0.0",
+    "description": "",
+    "main": "handler.js",
+    "dependencies": {
+        "nodemon": "^2.0.12",
+        "serverless-offline": "^8.1.0",
+        "jsonpath-plus": "^6.0.1",
+        "graphql-yoga": "^1.18.3"
+    },
+    "devDependencies": {
+        "serverless": "^2.57.0"
+    },
+    "scripts": {
+        "start": "npx nodemon --exec sls offline",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
