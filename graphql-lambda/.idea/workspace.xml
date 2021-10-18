@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b83cb930-c81d-4632-b1b4-6a342dc5aed4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2257ead9-c09f-4140-af15-0bac58e25d33" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,9 +10,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1xxFuVCMWgXfuAPyqxhdc5nxRkk" />
+  <component name="ProjectId" id="1zhGdJyd0GqateiDFL3cLwJykTk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,35 +22,34 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workspaceDescovery/classsed-orms-sequelize-master" />
+    <property name="last_opened_file_path" value="//wsl$/Ubuntu-20.04/home/mateusmed/dev/workspace/localstack/graphql-lambda" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\dev\workspaceMateus\graphQL\graphql_lambda" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="server.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/simple-test-mysql">
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b83cb930-c81d-4632-b1b4-6a342dc5aed4" name="Default Changelist" comment="" />
-      <created>1631289054635</created>
+      <changelist id="2257ead9-c09f-4140-af15-0bac58e25d33" name="Default Changelist" comment="" />
+      <created>1634592992020</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1631289054635</updated>
-      <workItem from="1631289055922" duration="2200000" />
-      <workItem from="1631741395051" duration="1251000" />
-      <workItem from="1631796976474" duration="2103000" />
+      <updated>1634592992020</updated>
+      <workItem from="1634592993167" duration="671000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
